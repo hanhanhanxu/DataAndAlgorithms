@@ -1,4 +1,5 @@
 # 快速排序
+> SortDemo.cpp为c语言版本，demo.java为网上流传的版本，demo2.java为我自己想的通过java实现类似c语言指针操作方式的版本。
 
 ### 思路
 
