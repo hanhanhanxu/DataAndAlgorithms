@@ -15,7 +15,7 @@
 
 样本数据：
 
-![1565939497503](C:\Users\123\AppData\Roaming\Typora\typora-user-images\1565939497503.png)
+![K9jU3j.png](https://s2.ax1x.com/2019/10/15/K9jU3j.png)
 
 现在，把你的两只手的食指拿出来。左手食指放在4的位置（首端），右手食指放在6的位置（末端）。
 
