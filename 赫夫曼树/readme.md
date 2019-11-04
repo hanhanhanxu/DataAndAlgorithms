@@ -6,6 +6,8 @@
 
 
 赫夫曼编码：
+
+```c
 main:
 #include<iostream>
 #include<cstdlib>
@@ -116,3 +118,4 @@ int main(void)
 	free(HT);
 	return 0;
 }
+```
