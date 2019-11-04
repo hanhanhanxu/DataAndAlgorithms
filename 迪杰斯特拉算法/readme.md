@@ -17,6 +17,8 @@
 迪杰斯特拉算法求最短路径时prev[n]只保存了到达n点的前一个点，而且有时候更新最短路径时会覆盖上次的内容，所以我可以把每次的内容利用起来，保存在二维数组里，这样每次的点都不会浪费，则具体每一步即是根据prev[n][x]中x从0到有值的过程中所有点构成的。
 
 主要算法清单：
+
+```c
 main:
 #include<iostream>
 #include<string>
@@ -640,6 +642,8 @@ Status.h:
 #define OVERFLOW -2
 typedef int Status;
 
+
+```
 
 参考文献：数据结构（c语言版）
 开发环境：win7旗舰版，vc6.0
